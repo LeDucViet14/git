@@ -2,6 +2,7 @@
 
 Repository (Repo) *git*
 Branch
+conflict
 
 # commands (lệnh)
 - git init
@@ -12,7 +13,7 @@ Branch
 - git log                                   (thời điểm commit)
 - git log --oneline                         (thời điểm commit)
 - git checkout {branch name}                (trở về thời điểm commit)
-- git branch 
+- git branch                                (ktra xem có mấy branch)
 - git checkout -b {branch name}             (tạo branch)
 - git merge {branch name}                   (tổng hợp branch)
 - git branch -d {branch name}               (xoá branch)
