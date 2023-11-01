@@ -3,6 +3,8 @@
 Repository (Repo) *git*
 Branch
 conflict
+Local (những gì trên lap)
+Remote (ngược lại local)
 
 # commands (lệnh)
 - git init
@@ -17,3 +19,4 @@ conflict
 - git checkout -b {branch name}             (tạo branch)
 - git merge {branch name}                   (tổng hợp branch)
 - git branch -d {branch name}               (xoá branch)
+- git push
