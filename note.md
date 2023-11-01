@@ -14,3 +14,5 @@ Branch
 - git checkout {branch name}                (trở về thời điểm commit)
 - git branch 
 - git checkout -b {branch name}             (tạo branch)
+- git merge {branch name}                   (tổng hợp branch)
+- git branch -d {branch name}               (xoá branch)
