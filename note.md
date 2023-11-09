@@ -20,3 +20,6 @@ Remote (ngược lại local)
 - git merge {branch name}                   (tổng hợp branch)
 - git branch -d {branch name}               (xoá branch)
 - git push
+- git push -u origin {branch name}          (đẩy branch ở local lên Romote)
+- git fetch origin                                      (lấy branch ở Romote về local)
+- git checkout -b {branch name} origin/{branch name}    (lấy branch ở Romote về local)
